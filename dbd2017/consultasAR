@@ -13,3 +13,6 @@
 π Emple.dni,Emple.apellido,Emple.nombre,Emple.fechaNac ρ Emple (σ Empleado.nroEmp=nroEmp Empleado ⨝(π Reparacion.nroEmp (σ dni>30000000 Cliente ⨯ Reparacion)))
 
 ##Ejer 3
+
+
+probando si puedo agregar o no informacion
